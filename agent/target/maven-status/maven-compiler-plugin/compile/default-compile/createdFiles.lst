@@ -1,0 +1,4 @@
+agent\CustomAgent.class
+agent\JpaRepositoryInterceptor.class
+agent\RestTemplateInterceptor.class
+agent\Post.class

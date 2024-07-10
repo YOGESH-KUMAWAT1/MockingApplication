@@ -1,0 +1,5 @@
+demo\application\Repository\PostRepository.class
+demo\application\Controller\PostController.class
+demo\application\RestTemplate\RestTemplateConfig.class
+demo\application\Entity\Post.class
+demo\application\MultiModuleApplication.class

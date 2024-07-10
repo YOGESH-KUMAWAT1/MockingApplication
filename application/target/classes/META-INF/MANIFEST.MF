@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: lib/hibernate-core-6.2.0.CR1.jar lib/jakarta.transaction-api
+ -2.0.0.jar lib/jboss-logging-3.4.3.Final.jar lib/hibernate-commons-anno
+ tations-6.0.5.Final.jar lib/jandex-3.0.3.jar lib/classmate-1.5.1.jar li
+ b/byte-buddy-1.12.18.jar lib/jakarta.xml.bind-api-3.0.1.jar lib/jakarta
+ .activation-2.0.1.jar lib/jaxb-runtime-3.0.2.jar lib/jaxb-core-3.0.2.ja
+ r lib/txw2-3.0.2.jar lib/istack-commons-runtime-4.0.1.jar lib/jakarta.i
+ nject-api-2.0.0.jar lib/antlr4-runtime-4.10.1.jar lib/jakarta.persisten
+ ce-api-3.1.0.jar lib/spring-boot-starter-3.3.1.jar lib/spring-boot-3.3.
+ 1.jar lib/spring-context-6.1.10.jar lib/spring-boot-autoconfigure-3.3.1
+ .jar lib/spring-boot-starter-logging-3.3.1.jar lib/logback-classic-1.5.
+ 6.jar lib/logback-core-1.5.6.jar lib/log4j-to-slf4j-2.23.1.jar lib/log4
+ j-api-2.23.1.jar lib/jul-to-slf4j-2.0.13.jar lib/jakarta.annotation-api
+ -2.1.1.jar lib/spring-core-6.1.10.jar lib/spring-jcl-6.1.10.jar lib/sna
+ keyaml-2.2.jar lib/spring-boot-starter-web-3.3.1.jar lib/spring-boot-st
+ arter-json-3.3.1.jar lib/jackson-databind-2.17.1.jar lib/jackson-annota
+ tions-2.17.1.jar lib/jackson-core-2.17.1.jar lib/jackson-datatype-jdk8-
+ 2.17.1.jar lib/jackson-datatype-jsr310-2.17.1.jar lib/jackson-module-pa
+ rameter-names-2.17.1.jar lib/spring-boot-starter-tomcat-3.3.1.jar lib/t
+ omcat-embed-core-10.1.25.jar lib/tomcat-embed-el-10.1.25.jar lib/tomcat
+ -embed-websocket-10.1.25.jar lib/spring-web-6.1.10.jar lib/spring-beans
+ -6.1.10.jar lib/micrometer-observation-1.12.7.jar lib/micrometer-common
+ s-1.12.7.jar lib/spring-webmvc-6.1.10.jar lib/spring-aop-6.1.10.jar lib
+ /spring-expression-6.1.10.jar lib/spring-boot-starter-data-jpa-3.3.1.ja
+ r lib/spring-boot-starter-aop-3.3.1.jar lib/aspectjweaver-1.9.22.jar li
+ b/spring-boot-starter-jdbc-3.3.1.jar lib/HikariCP-5.1.0.jar lib/spring-
+ jdbc-6.1.10.jar lib/spring-data-jpa-3.3.1.jar lib/spring-data-commons-3
+ .3.1.jar lib/spring-orm-6.1.9.jar lib/spring-tx-6.1.9.jar lib/slf4j-api
+ -2.0.2.jar lib/spring-aspects-6.1.10.jar lib/spring-boot-devtools-3.3.1
+ .jar lib/mysql-connector-j-9.0.0.jar lib/protobuf-java-4.26.1.jar lib/l
+ ombok-1.18.34.jar
+Main-Class: demo.application.MultiModuleApplication
+Created-By: Maven Integration for Eclipse
+
